@@ -1,6 +1,6 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md)
 
-#### Proton VPN 近期运行不稳定，推荐替代方案：[vpnforchinese.com](https://www.vpnforchinese.com/)</br>
+#### Proton VPN 近期运行不稳定，推荐替代方案：[vpnforchinese.com](https://www.vpnforchinese.com/?utm_source=github&utm_campaign=git_protonvpn)</br>
 
 官方网站（proton vpn 官网）：[protonvpn.com](https://protonvpn.com)</br>
 登录入口：[account.protonvpn.com/login](https://account.protonvpn.com/login)</br>

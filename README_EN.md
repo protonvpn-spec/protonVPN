@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md)
 
-#### Proton VPN has been working unreliably recently. Recommended alternative: [vpnacademy.com](https://vpnacademy.com)</br>
+#### Proton VPN has been working unreliably recently. Recommended alternative: [vpnacademy.com](https://vpnacademy.com/?utm_source=github&utm_campaign=git_protonvpn)</br>
 
 Official website: [protonvpn.com](https://protonvpn.com)</br>
 Proton VPN login: [account.protonvpn.com/login](https://account.protonvpn.com/login)</br>
